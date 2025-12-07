@@ -1,0 +1,4 @@
+Error found
+no issues
+critical error
+All good

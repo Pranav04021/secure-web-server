@@ -1,0 +1,3 @@
+Linux is powerful
+Bash scripting is useful
+This is a test file
